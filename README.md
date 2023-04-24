@@ -1,5 +1,6 @@
-# FirstApp
+# routing-start
 
+Project to study Angular routes - Udemy - Angular - the complete Guide
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
@@ -10,6 +11,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-# routing-start
-
-Project to study Angular routes - Udemy - Angular - the complete Guide
